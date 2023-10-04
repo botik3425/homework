@@ -1,0 +1,36 @@
+.turip{
+    color:var(--turip);
+}
+.ip{
+    background-color:var(--turip);
+}
+.pi{
+    background-color: var(--pi);
+}
+.in{
+    color: var(--in);
+}
+.pirut{
+    background-color: var(--pirut);
+}
+.tip{
+    color: var(--tip);
+}
+.pit{
+    color: var(--pit);
+}
+.hd{
+    color: var(--hd);
+}
+.tur{
+    background-color: var(--tur);
+    color: var(--in);
+}
+:root {--turip: #2196F3}
+:root {--pi: #F5F4FA}
+:root {--in: #FFFFFF}
+:root {--pirut: #2F303A}
+:root {--tip: #FFFFFF99}
+:root {--pit: #757575}
+:root {--hd: #212121}
+:root {--tur: #2196F3}
